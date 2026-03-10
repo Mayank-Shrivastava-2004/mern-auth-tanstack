@@ -28,6 +28,7 @@ This project demonstrates a secure **Authentication & Authorization** flow using
 ```
 mern-auth-tanstack/
 ├── backend/
+│   ├── config/db.js
 │   ├── controllers/authController.js
 │   ├── middleware/authMiddleware.js
 │   ├── models/User.js
@@ -48,8 +49,8 @@ mern-auth-tanstack/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Mayank-Shrivastava-2004/mern-auth-tanstack.git
-cd mern-auth-tanstack
+git clone https://github.com/Mayank-Shrivastava-2004/final-auth-task.git
+cd final-auth-task
 ```
 
 ### 2. Backend
