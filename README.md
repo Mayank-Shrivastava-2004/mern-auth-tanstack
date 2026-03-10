@@ -28,6 +28,7 @@ This project demonstrates a secure **Authentication & Authorization** flow using
 ```
 mern-auth-tanstack/
 ├── backend/
+│   ├── config/db.js
 │   ├── controllers/authController.js
 │   ├── middleware/authMiddleware.js
 │   ├── models/User.js
